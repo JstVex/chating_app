@@ -20,6 +20,10 @@
     color: grey;
 }
 
-.search {}
+.search {
+    color: aliceblue;
+}
 
-.newchat {}
+.newchat {
+    color: antiquewhite;
+}
